@@ -1,5 +1,5 @@
 # 👩‍💻 Ivo Marques
-I am a Software Engineering with a strong foundation in C/C++ programming and currently, I’m a student at 42 Lisboa.
+I am a **Software Engineer** with a strong foundation in **C/C++** programming and currently, I’m a student at **42 Lisboa**.
 ## 🛠️ Programming languages, Technologies & Tools
 - **Programming Languages**: C, C++, Python
 - **Frameworks**: Django
