@@ -1,11 +1,11 @@
 ## Hi there 👋
 ## 🛠️ Programming languages, Technologies & Tools
   
-## Languages:
+Languages:
 C, C++, Python  
-## Frameworks:
+Frameworks:
 Django  
-## Tools:
+Tools:
 Linux, Git, Docker containers, VSCode, NGINX  
-## Databases:
+Databases:
 PostgreSQL  
