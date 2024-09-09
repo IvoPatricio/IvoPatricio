@@ -1,6 +1,7 @@
-## Hi there 👋
-## 🛠️ Programming languages, Technologies & Tools
+# 👋 Hey there, I'm Ivo 👋 & Welcome to my GitHub profile!
 
+## 🛠️ Programming languages, Technologies & Tools  
+- **Programming Languages**: C, C++, Python
 ### Languages:
 - **C**
 - **C++**
@@ -15,7 +16,6 @@
 - **NGINX**
 ### Databases:
 - **PostgreSQL**
-
 ## 📃 Resume:
 - **Download my CV here:**
 
