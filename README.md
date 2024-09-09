@@ -1,15 +1,21 @@
 ## Hi there 👋
 ## 🛠️ Programming languages, Technologies & Tools
 
-### Languages
+### Languages:
 - **C**
 - **C++**
-- **Python**
-Languages: C, C++, Python  
-Frameworks: Django  
-Tools: Linux, Git, Docker containers, VSCode, NGINX  
-Databases: PostgreSQL 
+- **Python**  
+### Frameworks:
+- **Django**
+### Tools:
+- **Linux**
+- **Git**
+- **VSCode**
+- **Docker Containers**
+- **NGINX**
+### Databases:
+- **PostgreSQL**
 
-## 📃 Resume
-Download my CV here:
+## 📃 Resume:
+- **Download my CV here:**
 
