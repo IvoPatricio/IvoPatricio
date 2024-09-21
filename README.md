@@ -4,7 +4,7 @@ I am a **Software Engineer** with a strong foundation in **C/C++** programming a
 - **Programming Languages**: C, C++, Python
 - **Frameworks**: Django
 - **Tools**: Linux, Git, Docker Containers, VSCode, NGINX
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL, SQL
 - **Learning**: JavaScript/HTML/CSS (framework React)
 
 ## 📃 Resume:
