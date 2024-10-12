@@ -3,7 +3,7 @@ I am a **Software Engineer** with a strong foundation in **C/C++** programming a
 ## 🛠️ Programming languages, Technologies & Tools
 - **Programming Languages**: C, C++, C#, Python
 - **Frameworks**: Django, .NET, MonoGame
-- **Tools**: Linux, Git, Docker Containers, VSCode, NGINX
+- **Tools**: Linux, Git, Docker Containers, VSCode, Visual Studio 2022, NGINX
 - **Databases**: PostgreSQL, SQL
 - **Graphics API**: OpenGL, MiniLibX 
 - **Learning**: JavaScript/HTML/CSS
