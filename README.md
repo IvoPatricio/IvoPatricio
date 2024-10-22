@@ -5,6 +5,7 @@ I am a **Software Engineer** with a strong foundation in **C/C++** programming a
 - **Frameworks**: Django, .NET 6, MonoGame
 - **Tools**: Linux, Git, Docker Containers, VSCode, Visual Studio 2022, NGINX
 - **Databases**: PostgreSQL, SQL
+- **Cloud Technology**: Supabase (AWS)
 - **Graphics API**: OpenGL, MiniLibX 
 - **Learning**: JavaScript/HTML/CSS
 
